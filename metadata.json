@@ -1,0 +1,7 @@
+{
+  "name": "Nexus 3D Portfolio",
+  "description": "A sophisticated 3D-inspired portfolio hub featuring four professional personas with a minimalistic, high-performance aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
